@@ -6,7 +6,7 @@
 
 ## Hello there 👋
 
-What follows is a set of principles that I believe are essential for empowering infrastructure / devops / SRE teams. These principles are based on my experience working with infrastructure teams at various companies and my own experience as an infrastructure engineer. We should not only focus on engineering aspects, but ask ourselves how we can bring value to the team and the company.
+What follows is a set of principles that I believe are essential for empowering infrastructure / devops / SRE teams. These principles are based on my experience working with infrastructure teams at various companies and my own experience as a [Head of Infra](https://www.linkedin.com/in/urban-jurca/). We should not only focus on engineering aspects, but ask ourselves how we can bring value to the team and the company.
 <br>
 <br>
 I hope you find these principles helpful and I would love to hear your feedback.
