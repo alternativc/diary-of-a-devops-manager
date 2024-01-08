@@ -6,4 +6,5 @@
 
 ## Principles
 
-- [Engineering Princinples for Infra / DevOps teams](principles/engineering.md)
+- [Engineering Princinples for Infra / DevOps teams](principles/)
+
