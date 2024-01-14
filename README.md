@@ -4,7 +4,7 @@
   <strong>Personal notes of the soft side of devops management</strong>
 </div>
 
-## Principles
+## Table of contents 📚
 
 - [My take on 1on1s](1on1s/)
 - [Engineering Princinples for Infra / DevOps teams](principles/)
