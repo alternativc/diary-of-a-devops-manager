@@ -42,13 +42,13 @@ You might also have a misfortune that a vent is actually a rant - in that case y
 
 ### The template (I never used all of them, depending on the conversation) 📜
 
-- How are you doing? / What's up? < a very soft opener. Always open with a soft ball
-- How is your crew doing. Anything you are missing? <- for team leads
+- How are you doing? / What's up? <- *a very soft opener. Always open with a soft ball*
+- How is your crew doing. Anything you are missing? <- *for team leads*
 - What have you been doing since last 1:1 and what would you like to have been doing? Is there something you enjoyed in particular? Can we do something to align better?
 - What is the highest priority right now? Do you need my help with that?
 - How do you feel the atmosphere is in the team? Any conflicts?
 - How do you perceive the stress level you are facing?
-- Do you have feedback for me, anything I could do more/less/stop? <- this is a neat psychological trick. As in time even the most introverted will start asking about feedback for themselves.
+- Do you have feedback for me, anything I could do more/less/stop? <- *this is a neat psychological trick. As in time even the most introverted will start asking about feedback for themselves.*
 
 ### If there is silence 🤐
 
